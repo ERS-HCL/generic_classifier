@@ -1,0 +1,4 @@
+path,D:\Work\ACE\On github\Data\breast-cancer-wisconsin.data.txt,,,,,,,,,,
+header,Code number,Clump Thickness,Cell Size,Cell Shape,Marginal Adhesion,Single Epithelial Cell Size,Bare Nuclei,Bland Chromatin,Normal Nucleoli,Mitoses,Class
+feature_cols,Clump Thickness,Cell Size,Cell Shape,Marginal Adhesion,Single Epithelial Cell Size,Bare Nuclei,Bland Chromatin,Normal Nucleoli,Mitoses,,
+label,Class,,,,,,,,,,
